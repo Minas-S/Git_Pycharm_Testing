@@ -1,9 +1,0 @@
-  movie_id       movie_name  ... lead_actor_name2 rental_cost
-0   M00001         DIE HARD  ...          BEDELIA         100
-1   M00002  THE DARK KNIGHT  ...           BONNIE         300
-2   M00003       THE MATRIX  ...          HUMPREY         180
-3   M00004        INCEPTION  ...          BERGMAN         150
-4   M00005     OFFICE SPACE  ...             KATE        1000
-5   M00006     The Notebook  ...             ELIA         100
-
-[6 rows x 12 columns]
