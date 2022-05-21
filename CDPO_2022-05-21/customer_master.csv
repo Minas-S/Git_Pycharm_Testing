@@ -1,0 +1,8 @@
+  customer_id   customer_name  ...  date_of_registration age
+0       C0001           NITIN  ...                  1987  22
+1       C0002          AGNESH  ...                  1991  35
+2       C0003  T RAMACHANDRAN  ...                  1999  48
+3       C0004           Rajib  ...                  1993  15
+4       C0005      ajay ghosh  ...                  1979  30
+
+[5 rows x 6 columns]
